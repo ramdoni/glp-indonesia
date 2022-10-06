@@ -1,4 +1,3 @@
-plate-box
+GLP Indonesia
 =========
-
-HTML5 boiler plat with bootstrap support and fontawesome support... Included semantic HTML :P
+PT Gradasi Lintas Persada Indonesia bergerak dalam bidang Desain Grafis & Interior, Percetakan, Digital Printing, Advertising, Konveksi, Merchandise, serta dalam perkembanganya juga melebarkan sayap dengan membentuk divisi yang bergerak dalam EVENT ORGANIZER (IMPERIVM). Proposal ini berisi visi, misi, komitmen, promotion item, katalog produk dan event organizer yang sudah pernah kami kerjakan.
